@@ -1,5 +1,5 @@
 # 🌐 Language Translation Tool
-**CodeAlpha AI Internship – Task 1**
+
 
 A web app where you type text, pick source and target languages, and get the translation instantly.
 
